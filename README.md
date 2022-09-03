@@ -1,9 +1,6 @@
-# Strore Contact Online
+# Strore Contacts Online
 
 Strore Contact Online App Where User can Register, Login and then keep and manage their contacts in the cloud. In this project i have use Node Js, Express, Mongodb for Serving api and React With Redux for Frontend.
-
-# See live demo here
-
 
 
 # Install dependencies for server
@@ -41,12 +38,8 @@ Server runs on http://localhost:5000 and client runs on http://localhost:3000
 ```
 
 ```
-You need to setup your mongo database connection string in "config/default.json" folder and also the jwt secret
+Setup your mongo database connection string in "config/default.json" folder and also the jwt secret
 ```
-
-# Project snapshot
-
-
 
 ## Author
 
