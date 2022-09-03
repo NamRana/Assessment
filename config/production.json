@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Abhay:abhay@cluster0.ifw5vyj.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "rana123456"
+}
